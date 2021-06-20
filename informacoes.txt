@@ -10,3 +10,13 @@ Marco-1022
 
 Servidor>epiz_28814578	Website for ards.epizy.com >Control Panel
 
+Ferramentas utilizadas:
+HTML 5
+CSS 3
+JS
+BOOTSTRAP 4
+FONTAWESOME
+PHP 7
+CAKE PHP
+MYSQL
+COMPOSER
