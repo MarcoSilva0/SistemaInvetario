@@ -8,12 +8,12 @@ senha: Marco-1022                       |
                                         |
 FTP Username epiz_28814578              |
 rvtzeuH0bPRRJhb                         |
-FTP Hostname	ftpupload.net             |
-FTP Port (optional)	21                  |
+FTP Hostname ftpupload.net              |
+FTP Port (optional) 21                  |
 ----------------------------------------+
                                         |
 Servidor>                               |
-epiz_28814578	|| ards.epizy.com >       |
+epiz_28814578 || ards.epizy.com >       |
 Control Panel                           |
                                         |
 ----------------------------------------+
