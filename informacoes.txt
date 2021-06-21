@@ -6,7 +6,7 @@ senha: Marco-1022                       |
 +---------------------------------------+
                   FTP                   |
                                         |
-FTP Username	epiz_28814578             |
+FTP Username epiz_28814578              |
 rvtzeuH0bPRRJhb                         |
 FTP Hostname	ftpupload.net             |
 FTP Port (optional)	21                  |
