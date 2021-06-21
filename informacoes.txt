@@ -15,7 +15,8 @@ FTP Port (optional) 21                  |
 Servidor>                               |
 epiz_28814578 || ards.epizy.com >       |
 Control Panel                           |
-                                        |
+Diagrama do banco de dados              |
+encurtador.com.br/ijpIQ                 |
 ----------------------------------------+
 Ferramentas utilizadas:                 |
 HTML 5                                  |
